@@ -1,6 +1,6 @@
 # Abhinav Dwivedi
 
-**Phone:** +91-856290602  
+**Phone:** +91-8562970602  
 **Location:** Chandigarh, India  
 **Email:** abhinavdwivedi530@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/abhinav-dwivedi-ba4b721b7/  
