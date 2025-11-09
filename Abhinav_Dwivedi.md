@@ -1,17 +1,16 @@
 # Abhinav Dwivedi
++91-8562970602  Chandigarh, India.
 
-**Phone:** +91-8562970602  
-**Location:** Chandigarh, India  
 **Email:** abhinavdwivedi530@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/abhinav-dwivedi-ba4b721b7/  
 **GitHub:** https://github.com/Abhinav-Dwivedi430
 
----
+
 
 ## Professional Summary
 Detail-oriented System Engineer with 3+ years of experience in cloud infrastructure support, frontend troubleshooting, and automation scripting. Skilled in managing Azure Cloud PCs, performing system patching, and creating Python and PowerShell automation scripts to improve operational efficiency. Hands-on experience with React.js, Node.js, ServiceNow, JIRA, and Confluence across multi-region client projects (E.ON, Alcon). Proficient in REST APIs, Intune, and CI/CD workflows, with strong problem-solving and communication skills.
 
----
+
 
 ## Technical Skills
 - **Programming Languages:** Python, JavaScript, C, C++, MySQL, SQL, DSA, OOPs
@@ -21,7 +20,7 @@ Detail-oriented System Engineer with 3+ years of experience in cloud infrastruct
 - **Tools & Platforms:** Git, GitHub, VS Code, Eclipse, ServiceNow, Postman, Okta, JIRA, Confluence, Drupal
 - **Methodologies:** Agile, Scrum, DevOps, Version Control, Automation
 
----
+
 
 ## Work Experience
 
@@ -53,13 +52,13 @@ Detail-oriented System Engineer with 3+ years of experience in cloud infrastruct
 - Completed Full Stack Development training (Angular, Java, TypeScript, SQL).
 - Worked as a Support Developer for an insurance project, handling debugging, ticket analysis, and enhancement tasks.
 
----
+
 
 ## Education
 - **Bachelor of Computer Applications (BCA)** — Dr. Virendra Swarup Institute of Computer Studies, Kanpur, Uttar Pradesh (2018 – 2021) — 70 percentile
 - **12th (ISC Board)** — Mother Teresa Mission Higher Secondary School, Kanpur, Uttar Pradesh (2017 – 2018) — 76 percentile
 
----
+
 
 ## Project Work
 **Social Media Website (Quora Clone)**  
@@ -70,7 +69,7 @@ Developed a full-featured social platform for posting, commenting, and public Q&
 Built a responsive portfolio to showcase professional achievements and work history.  
 *Tech Stack:* HTML, CSS, React.js, GitHub
 
----
+
 
 ## Awards and Certificates
 - Insta Award, Infosys — Recognized for exceptional project performance and client satisfaction.
@@ -78,14 +77,3 @@ Built a responsive portfolio to showcase professional achievements and work hist
 - UI/UX Designer Certificate — Practiced Figma for interface design.
 - Python with Django Certification — Backend development and web framework expertise.
 - Basic Ethical Hacking Certification
-
----
-
-## Contact Links
-- Email: mailto:abhinavdwivedi530@gmail.com
-- LinkedIn: https://www.linkedin.com/in/abhinav-dwivedi-ba4b721b7/
-- GitHub: https://github.com/Abhinav-Dwivedi430
-
----
-
-*This Markdown is converted to match your PDF resume for GitHub preview. Replace or tweak any sections (font-size and exact spacing may differ from the PDF due to GitHub rendering).*
